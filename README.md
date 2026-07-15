@@ -37,9 +37,7 @@ The project answers multiple business questions covering customer behavior, sell
 ├── notebooks/
 ├── reports/
 ├── presentations/
-├── images/
 ├── data/
-├── requirements.txt
 └── README.md
 ```
 
