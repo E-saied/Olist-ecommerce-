@@ -11,7 +11,7 @@ The project answers multiple business questions covering customer behavior, sell
 ## Business Questions
 
 - ✅ Business Question 1 – Delivery & Logistics Operations (SLA Analysis)
-- 🚧 Business Question 2 – Revenue & Business Growth
+- ✅ Business Question 2 – Revenue & Business Growth
 - 🚧 Business Question 3 – Customer Behavior & Retention
 - 🚧 Business Question 4 – Seller Performance & Distribution
 - 🚧 Business Question 5 – Payments & Financial Patterns
