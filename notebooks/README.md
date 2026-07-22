@@ -1,1 +1,1 @@
-This folder contains VS code notebook
+This folder contains jupyter notebook 
